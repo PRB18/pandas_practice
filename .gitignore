@@ -3,3 +3,8 @@
 !.gitignore
 !practice.ipynb
 !pandas_practice.ipynb
+!archive/
+!archive/**
+!complete-pandas-tutorial/
+!complete-pandas-tutorial/data/
+!complete-pandas-tutorial/data/**
