@@ -8,3 +8,5 @@
 !complete-pandas-tutorial/
 !complete-pandas-tutorial/data/
 !complete-pandas-tutorial/data/**
+!complete-pandas-tutorial/README.md
+!complete-pandas-tutorial/requirements.txt
