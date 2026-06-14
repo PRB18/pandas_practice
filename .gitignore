@@ -1,10 +1,13 @@
-# Ignore everything by default
+# Ignore everything
 *
+!*/
+
+# Track specific files and folders
 !.gitignore
 !practice.ipynb
 !pandas_practice.ipynb
 !archive/
-!archive/**
-!complete-pandas-tutorial/
-!complete-pandas-tutorial/**
-!README.md
+!complete-pandas-tutorial/data/
+!complete-pandas-tutorial/data/*
+!warmup-data/
+!warmup-data/*
