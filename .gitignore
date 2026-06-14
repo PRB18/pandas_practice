@@ -1,0 +1,5 @@
+# Ignore everything by default
+*
+!.gitignore
+!practice.ipynb
+!pandas_practice.ipynb
